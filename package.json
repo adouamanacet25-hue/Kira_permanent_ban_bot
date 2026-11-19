@@ -10,7 +10,7 @@
     "url": "https://t.me/Kira_ban_permanent_bot"
   },
   "scripts": {
-    "start": "node Server.js"
+    "start": "node server.js"
   },
   "engines": {
     "node": ">=20"
